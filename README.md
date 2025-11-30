@@ -31,7 +31,7 @@
 💡 Funcionalidades Extra:
 •	Validación de campos obligatorios
 •	Validación de tipos de datos
-•	Selección de productos con un clic
+•	Selección de productos con un click
 •	Actualización automática de la lista
 •	Reportes en ventanas separadas
 •	Mensajes informativos y de error
