@@ -60,8 +60,4 @@ ________________________________________
 2.	En el panel izquierdo, ve a la sección "⚙️ Herramientas" (al final)
 3.	Haz clic en "📦 Cargar Datos de Prueba"
 4.	¡Listo! Tendrás 40+ productos para probar todas las funcionalidades
-💡 Tip: Después de cargar los datos, prueba:
-•	El reporte de stock bajo con límite 5 (verás 4 productos premium)
-•	Buscar productos por categoría: "Hardware", "Periféricos", etc.
-•	Editar y eliminar productos
-•	Buscar por nombre: "Intel", "Logitech", "Samsung"
+
